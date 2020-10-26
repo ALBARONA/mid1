@@ -1,0 +1,18 @@
+h1{color:red;}
+
+
+.mid2{padding-top: 50px;}
+
+.t{width: 30%;
+margin: 0;
+text-align: center;
+display: inline-block;
+height:20px;
+padding: 20px;
+border: 1px solid black;
+background-color: gray;}
+
+
+.invisible {
+  visibility: hidden;
+}
